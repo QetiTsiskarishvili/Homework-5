@@ -1,0 +1,13 @@
+*{
+    margin: 0; box-sizing: border-box;
+}
+*{background-color: #D5E1EF;}
+.box{width: 288px; height: 288px; background-color: #2C7DFA; border-radius: 10px; display: flex; align-items: center; justify-content: center;}
+img{height: 160px; width: 160px;}
+.bold{font-size: 22px; font-weight: bold; text-align: center; background-color: transparent;}
+.normal{font-size: 15px; text-align: center; background-color: white;}
+.textbox{width: 288px; height: 129px; background-color: white;} 
+.column{display: flex; flex-direction: column; background-color:white; gap: 24px
+    ;}
+.whitebox{display: flex; justify-content: center; align-items: center; height: 497px; width: 320px; background-color: white; border-radius: 20px;}
+.mainbox{display: flex; justify-content: center;}
